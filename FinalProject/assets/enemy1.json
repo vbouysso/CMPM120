@@ -1,0 +1,334 @@
+{
+    "frames": {
+        "enemy1_com0.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com1.png": {
+            "frame": {
+                "x": 192,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com2.png": {
+            "frame": {
+                "x": 384,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com3.png": {
+            "frame": {
+                "x": 576,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com4.png": {
+            "frame": {
+                "x": 768,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com5.png": {
+            "frame": {
+                "x": 0,
+                "y": 256,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com6.png": {
+            "frame": {
+                "x": 192,
+                "y": 256,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com7.png": {
+            "frame": {
+                "x": 384,
+                "y": 256,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com8.png": {
+            "frame": {
+                "x": 576,
+                "y": 256,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com9.png": {
+            "frame": {
+                "x": 768,
+                "y": 256,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com10.png": {
+            "frame": {
+                "x": 0,
+                "y": 512,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com11.png": {
+            "frame": {
+                "x": 192,
+                "y": 512,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com12.png": {
+            "frame": {
+                "x": 384,
+                "y": 512,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com13.png": {
+            "frame": {
+                "x": 576,
+                "y": 512,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com14.png": {
+            "frame": {
+                "x": 768,
+                "y": 512,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        },
+        "enemy1_com15.png": {
+            "frame": {
+                "x": 0,
+                "y": 768,
+                "w": 192,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 256
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/piskelapp/piskel/",
+        "version": "1.0",
+        "image": "enemy1_com.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 960,
+            "h": 1024
+        }
+    }
+}
